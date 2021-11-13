@@ -1,0 +1,19 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIA6MKMVXIVQDXEMC6Y
+      secret-key: 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
+    region:
+      static: us-east-2
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: securefilesystem
+
+
+      
+
+server:
+  port: 8080
